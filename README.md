@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshsaini326
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on any web development projects
 
 
